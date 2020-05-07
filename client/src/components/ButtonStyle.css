@@ -1,0 +1,30 @@
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: silver;
+    color: black;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+ 
+}
+
+/* #play{
+    background-color: lightgreen;
+}
+
+#notPlay{
+    background-color: red;
+}
+
+#undecided{
+    background-color: yellow;
+} */
+
+#delete{
+    background-color: red;
+}
+
+form{
+    display: inline-block;
+}
